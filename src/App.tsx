@@ -27,9 +27,7 @@ const App: React.FC = (): JSX.Element => {
     <>
       <header className={css.header}>
         <div className={css.header__container}>
-          <p className={css.header__title}>
-            Hello, DocuSketch! Thanks for opportunity &#59;&#41;
-          </p>
+          <p className={css.header__title}>Hello, DocuSketch! Thanks for opportunity &#59;&#41;</p>
         </div>
       </header>
       <main className={css.wrapper}>
